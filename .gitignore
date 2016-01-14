@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+
+# text and data
+*.txt
+*.zip
+*.mat
+
